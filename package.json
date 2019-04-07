@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "babel": "./node_modules/.bin/babel src/js --out-file bundle.js"
+    "build": "./node_modules/.bin/babel src/js --out-file bundle.js"
   },
   "author": "",
   "license": "ISC",
